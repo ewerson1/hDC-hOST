@@ -75,7 +75,7 @@ nav {
 
 /* main banner */
 .main-banner {
-    background-image: url("/img/mainbanner.png");
+    background-image: url("../hDC-hOST/img/mainbanner.png");
     background-size: cover;
     background-position: center;
     padding: 10rem;
